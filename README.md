@@ -1,2 +1,1 @@
-# helloworld
-Test Project
+# helloworld - Test project for beginners! 
